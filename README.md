@@ -1,2 +1,2 @@
-# data-structure-
-data structure practical question  
+# Data-Structure-
+Data Structure Practical Question  
